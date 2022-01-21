@@ -1,18 +1,29 @@
 [
   {
-    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Android_pack.zip",
+    "url": "https://github.com/slothsoul/rboard_slothsoul/blob/main/packs/slothsoul_pack.zip",
     "author": "slothsoul",
     "tags": [],
     "themes": [
       "3d_slothsoul",
-      "GreyBlue_mod",
-      "Nord_Grey_slothsoul",
-      "Nord_Purple_slothsoul",
       "Rboard_slothsoul",
       "slothsoul",
       "slothsoul_theme1"
     ],
-    "size": 140070,
+    "size": 74792,
     "date": 21012022,
-    "name": "slothsoul Ppack"
+    "name": "slothsoul pack"
   },
+  {
+    "url": "https://github.com/slothsoul/rboard_slothsoul/blob/main/packs/slothsoul_pack.zip",
+    "author": "slothsoul",
+    "tags": [],
+    "themes": [
+      "GreyBlue_mod",
+      "Nord_Grey_slothsoul",
+      "Nord_Purple_slothsoul"
+    ],
+    "size": 58263,
+    "date": 21012022,
+    "name": "slothsoul pack"
+  }
+]  
